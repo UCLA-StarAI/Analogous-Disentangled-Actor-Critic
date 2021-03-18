@@ -1,0 +1,2 @@
+from envs.myEnvs.CartPoleSwingUp.env.cartpole_swingup import CartPoleSwingUpEnv
+from envs.myEnvs.CartPoleSwingUp.env.cartpole_swingup_continuous import CartPoleSwingUpContinuousEnv
